@@ -8,5 +8,6 @@
 <body>
 	<?php include 'navbar.html'; ?>
 	<?php include 'header.html'; ?>
+	<?php include 'footer.html'; ?>
 </body>
 </html>
